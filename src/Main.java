@@ -43,9 +43,6 @@ class Main
         String name = input.next();
         String line = input.nextLine();
 
-
-
-
     }
 
 }

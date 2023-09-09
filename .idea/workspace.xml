@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f11f1ce-1205-4f17-baba-1b5479a2201a" name="Changes" comment="07-09-2023">
-      <change afterPath="$PROJECT_DIR$/src/SameElementOfArray.java" afterDir="false" />
+    <list default="true" id="6f11f1ce-1205-4f17-baba-1b5479a2201a" name="Changes" comment="09-09-2023">
+      <change afterPath="$PROJECT_DIR$/src/FindTargetIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SameElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SameElementOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2UVzH7cPCLcJsz0IiD4oC4ztkub" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -112,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694033425388</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="09-09-2023">
+      <option name="closed" value="true" />
+      <created>1694273660205</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694273660205</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +143,7 @@
     <MESSAGE value="30-08-2023" />
     <MESSAGE value="31-08-2023" />
     <MESSAGE value="07-09-2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="07-09-2023" />
+    <MESSAGE value="09-09-2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="09-09-2023" />
   </component>
 </project>

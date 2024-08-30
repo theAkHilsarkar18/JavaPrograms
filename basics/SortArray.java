@@ -12,6 +12,11 @@ public class SortArray {
 
         array = new int[n];
 
+        for (int i = 0; i < n; i++) {
+            System.out.print("Enter array["+i+"]: ");
+            array[i] = sc.nextInt();
+        }
+
         for(int i=0; i<n; i++)
         {
             for (int j = i+1; j < n; j++) {
@@ -24,7 +29,7 @@ public class SortArray {
         }
 
         for (Object elem : array) {
-            
+            System.out.println(elem);
         }
     }
 }

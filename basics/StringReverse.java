@@ -18,7 +18,9 @@ public class StringReverse
          {
             System.out.print(i);
          }
+        
          System.out.println();
+        
          for (int i=nameArray.length-1; i>=0; i--) {
              System.out.print(nameArray[i]);
          }
